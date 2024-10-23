@@ -20,10 +20,7 @@ A fun and interactive Turtle Crossing game built using Python's `turtle` module.
 
 Here's a short example showcasing the game:
 
-
-https://github.com/user-attachments/assets/bf12cb1b-f63e-4390-9982-c990d1b86f4e
-
-
+![ezgif-5-495a818e71](https://github.com/user-attachments/assets/3a7e153d-9093-4f2f-ba07-0aa989fb5062)
 
 ## Installation
 
